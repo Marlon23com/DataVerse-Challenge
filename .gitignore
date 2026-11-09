@@ -1,0 +1,12 @@
+# Project artifacts
+*.pdf
+*.docx
+*.pptx
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# OS files
+.DS_Store
+Thumbs.db
